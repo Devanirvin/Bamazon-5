@@ -1,0 +1,25 @@
+{
+  "name": "bamazon_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devanirvin/Bamazon_1.git"
+  },
+  "author": "Devan Irvin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devanirvin/Bamazon_1/issues"
+  },
+  "homepage": "https://github.com/Devanirvin/Bamazon_1#readme",
+  "dependencies": {
+    "cli": "^1.0.1",
+    "inquirer": "^7.0.0",
+    "mysql": "^2.17.1",
+    "table2": "^1.0.1"
+  }
+}
